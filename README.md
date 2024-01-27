@@ -1,4 +1,10 @@
+<div align="center">
+
+  
 ![title](https://github.com/gayulz/JSMiniGame_project/assets/109029219/99b2fa9d-9e2a-429b-95a9-69a2b6b413a4)
+
+
+</div>
 
 <h1 align="center"> 🕹️ HTML, CSS, Javascript를 사용한 MiniGame </h1>
 &nbsp;
